@@ -28,5 +28,5 @@
 
 <div>
   <h2>License</h2>
-  <p>This code is provided under the <a href="LICENSE">MIT License</a>. You are free to use, modify, and distribute it as needed.</p>
+  <p>This code is provided under the <a href="https://github.com/heromr/AnyTools/blob/main/LICENSE">MIT License</a>. You are free to use, modify, and distribute it as needed.</p>
 </div>
